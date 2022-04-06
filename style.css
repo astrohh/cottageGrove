@@ -1,0 +1,100 @@
+body{
+	background-image: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/dark-honeycomb.png");
+}
+
+.title{
+	background: white;
+}
+
+.history{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: 5px;
+	text-align: center;
+	height: 50vh;
+}
+
+.history .text{
+	display: inline-block;
+	background: white;
+	width: 48%;
+	height: 98%;
+	margin: 5px;
+	vertical-align: middle;
+}
+
+.history .image{
+	display: inline-block;
+	width: 48%;
+	height: 98%;
+	margin: 5px;
+	vertical-align: middle;
+}
+
+.demos{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: 5px;
+	text-align: center;
+	height: 50vh
+}
+
+.demos .text{
+	display: inline-block;
+	background: white;
+	width: 48%;
+	height: 98%;
+	margin: 5px;
+	vertical-align: middle;
+}
+
+.demos .image{
+	display: inline-block;
+	width: 48%;
+	height: 98%;
+	margin: 5px;
+	vertical-align: middle;
+}
+
+.weather{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin: 5px;
+	text-align: center;
+	height: 50vh
+}
+
+.weather .text{
+	display: inline-block;
+	background: white;
+	width: 48%;
+	height: 98%;
+	margin: 5px;
+	vertical-align: middle;
+}
+
+.weather .image{
+	display: inline-block;
+	background: white;
+	width: 48%;
+	height: 98%;
+	margin: 5px;
+	vertical-align: middle;
+}
+
+.footer{
+	height: 5%;
+	margin-top: 5px;
+	margin-left: -8px;
+	margin-right: -8px;
+	margin-bottom: -10px;
+}
+
+#slideshow {
+  margin-top: 1%;
+  margin-left: 1%;
+  position: relative;
+  width: 98%;
+  height: 98%;
+  background: white;
+}
